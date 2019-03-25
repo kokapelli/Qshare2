@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QueueSongButton Snapshot matches the snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#282828",
+      "borderColor": "#383838",
+      "borderRadius": 50,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "center",
+      "margin": 3,
+      "marginTop": 5,
+      "paddingLeft": 30,
+      "paddingRight": 30,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#282828",
+        "flex": 4,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 20,
+        }
+      }
+      testID="songDetails"
+    >
+      Qshare
+       - 
+      Hampus
+    </Text>
+  </View>
+</View>
+`;

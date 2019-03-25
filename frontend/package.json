@@ -1,0 +1,54 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "cross-env NODE_ENV=test node ./node_modules/jest/bin/jest.js --watchAll",
+    "test-nowatch": "cross-env NODE_ENV=test node ./node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "@expo/vector-icons": "^9.0.0",
+    "axios": "^0.18.0",
+    "cross-env": "^5.2.0",
+    "expo": "^32.0.0",
+    "fetch-mock": "^7.3.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-qrcode": "^0.2.7",
+    "react-native-snackbar-component": "^1.1.0",
+    "react-navigation": "^3.0.9",
+    "react-redux": "^6.0.0",
+    "react-test-renderer": "^16.8.3",
+    "redux": "^4.0.1",
+    "redux-axios-middleware": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.1.0",
+    "babel-preset-expo": "^5.0.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.9.1",
+    "jest": "^24.1.0",
+    "jest-expo": "^32.0.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-native-mock-render": "^0.1.2",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-mock-store": "^1.5.3",
+    "schedule": "^0.4.0"
+  },
+  "private": true
+}

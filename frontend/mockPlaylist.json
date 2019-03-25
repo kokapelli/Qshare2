@@ -1,0 +1,684 @@
+{
+    "items": [
+        {   
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                    {
+                        "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+                        "id": "7dGJo4pcD2V6oG8kP0tJRR",
+                        "name": "Eminem",
+                        "type": "artist",
+                        "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+                    }
+                    ],
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2cWBwpqMsDJC1ZUwz813lo",
+                    "id": "2cWBwpqMsDJC1ZUwz813lo",
+                    "images": [
+                    {
+                        "height": 634,
+                        "url": "https://i.scdn.co/image/77eb7c17cafe550370eda35f1085fcf20592eec7",
+                        "width": 640
+                    },
+                    {
+                        "height": 297,
+                        "url": "https://i.scdn.co/image/77eb7c17cafe55026b823b02df0c4513a863e106",
+                        "width": 300
+                    },
+                    {
+                        "height": 63,
+                        "url": "https://i.scdn.co/image/77eb7c17cafe55019a15683f8d7f7d7d033317fc",
+                        "width": 64
+                    }
+                    ],
+                    "name": "The Eminem Show",
+                    "release_date": "2002-05-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 20,
+                    "type": "album",
+                    "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo"
+                },
+                "artists": [
+                    {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+                    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+                    "name": "Eminem",
+                    "type": "artist",
+                    "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+                    },
+                    {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+                    "id": "1Oa0bMld0A3u5OTYfMzp5h",
+                    "name": "Nate Dogg",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297786,
+                "episode": false,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "USIR10211066"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4xkOaSrkexMciUUogZKVTS",
+                "id": "4xkOaSrkexMciUUogZKVTS",
+                "is_local": false,
+                "is_playable": true,
+                "name": "'Till I Collapse",
+                "popularity": 83,
+                "preview_url": "https://p.scdn.co/mp3-preview/e187a68b2932880bfe9586d4f4a809d7b50f38ea?cid=774b29d4f13844c495f206cafdad9c86",
+                "track": true,
+                "track_number": 18,
+                "type": "track",
+                "uri": "spotify:track:4xkOaSrkexMciUUogZKVTS"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+                    "id": "5he5w2lnU9x7JFhnwcekXX",
+                    "name": "Skrillex",
+                    "type": "artist",
+                    "uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+                },
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+                    "id": "1sBkRIssrMs1AbVkOJbc7a",
+                    "name": "Rick Ross",
+                    "type": "artist",
+                    "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/3W6iNTF9ajh2btsyxslpCY"
+                },
+                "href": "https://api.spotify.com/v1/albums/3W6iNTF9ajh2btsyxslpCY",
+                "id": "3W6iNTF9ajh2btsyxslpCY",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/78d07d2361fce8f76216a2b3eddcf1f0e05e82b6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/16d69d01b01dcebacff2a0449934dcab74aa6e91",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/f9f7089f2c94487175fcbc5f883fcd2c5037c9cd",
+                    "width": 64
+                }
+                ],
+                "name": "Purple Lamborghini (with Rick Ross)",
+                "release_date": "2016-07-22",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:3W6iNTF9ajh2btsyxslpCY"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+                },
+                "href": "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+                "id": "5he5w2lnU9x7JFhnwcekXX",
+                "name": "Skrillex",
+                "type": "artist",
+                "uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+                },
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+                },
+                "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+                "id": "1sBkRIssrMs1AbVkOJbc7a",
+                "name": "Rick Ross",
+                "type": "artist",
+                "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 215510,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21602007"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6JyuJFedEvPmdWQW0PkbGJ",
+            "id": "6JyuJFedEvPmdWQW0PkbGJ",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Purple Lamborghini (with Rick Ross)",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e18e92cdcff02cdd4bdbc7bcd23fcb56a31e414?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6JyuJFedEvPmdWQW0PkbGJ"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6ybrUCgVcBWO4mySudF5tH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6ybrUCgVcBWO4mySudF5tH",
+                    "id": "6ybrUCgVcBWO4mySudF5tH",
+                    "name": "Wynn",
+                    "type": "artist",
+                    "uri": "spotify:artist:6ybrUCgVcBWO4mySudF5tH"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/5Qpxla6nncyTmznnzPH4oh"
+                },
+                "href": "https://api.spotify.com/v1/albums/5Qpxla6nncyTmznnzPH4oh",
+                "id": "5Qpxla6nncyTmznnzPH4oh",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/b5984785552a287246907f6c6c4a19efcca7a708",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/f5e6ab4e14a3f34af8845ba692371ef031cbc456",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/36f21c72374667d984a01b389c01080e1cedd4f2",
+                    "width": 64
+                }
+                ],
+                "name": "Legend (Remix)",
+                "release_date": "2017-03-12",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:5Qpxla6nncyTmznnzPH4oh"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6ybrUCgVcBWO4mySudF5tH"
+                },
+                "href": "https://api.spotify.com/v1/artists/6ybrUCgVcBWO4mySudF5tH",
+                "id": "6ybrUCgVcBWO4mySudF5tH",
+                "name": "Wynn",
+                "type": "artist",
+                "uri": "spotify:artist:6ybrUCgVcBWO4mySudF5tH"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 154287,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "TCACY1791391"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6hfrauHNGLjYNx0KW3GhGm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6hfrauHNGLjYNx0KW3GhGm",
+            "id": "6hfrauHNGLjYNx0KW3GhGm",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Legend (Remix)",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/70a64b5747813a662c00fd0724ddff9c26b183fb?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6hfrauHNGLjYNx0KW3GhGm"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/75fIuwXxhZ1atNzWLMrgF0",
+                    "id": "75fIuwXxhZ1atNzWLMrgF0",
+                    "name": "Tyler Bates",
+                    "type": "artist",
+                    "uri": "spotify:artist:75fIuwXxhZ1atNzWLMrgF0"
+                },
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6RmcC7utP8xCev7o122TCP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6RmcC7utP8xCev7o122TCP",
+                    "id": "6RmcC7utP8xCev7o122TCP",
+                    "name": "Joel J. Richard",
+                    "type": "artist",
+                    "uri": "spotify:artist:6RmcC7utP8xCev7o122TCP"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/417xbxLCqpAckgc6Kk1zg0"
+                },
+                "href": "https://api.spotify.com/v1/albums/417xbxLCqpAckgc6Kk1zg0",
+                "id": "417xbxLCqpAckgc6Kk1zg0",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/0bb84c7a3d03f2a9fa00bb5f4253d6d4949d7304",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/f23138980581809321243b63eaa3e5bd13a1707c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/c86e92d171fcd84a85cb9e0c114bc53b1e86daae",
+                    "width": 64
+                }
+                ],
+                "name": "John Wick: Chapter 2 (Original Motion Picture Soundtrack)",
+                "release_date": "2017-02-10",
+                "release_date_precision": "day",
+                "total_tracks": 23,
+                "type": "album",
+                "uri": "spotify:album:417xbxLCqpAckgc6Kk1zg0"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv"
+                },
+                "href": "https://api.spotify.com/v1/artists/2KrXlzpSX4wWvJ2555FWLv",
+                "id": "2KrXlzpSX4wWvJ2555FWLv",
+                "name": "Le Castle Vania",
+                "type": "artist",
+                "uri": "spotify:artist:2KrXlzpSX4wWvJ2555FWLv"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 187173,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "US3M51747214"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2zwcnaxahJOnYwG0H6tXTz"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2zwcnaxahJOnYwG0H6tXTz",
+            "id": "2zwcnaxahJOnYwG0H6tXTz",
+            "is_local": false,
+            "is_playable": true,
+            "name": "John Wick Mode",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/21955cd510cdeda2c5fad860c3b176f150eb4433?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:2zwcnaxahJOnYwG0H6tXTz"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                    "id": "1l2oLiukA9i5jEtIyNWIEP",
+                    "name": "Carpenter Brut",
+                    "type": "artist",
+                    "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+                },
+                "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
+                "id": "0io5pe55YRCTVqEjwlOBdN",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/64d65d32c03c8d17920c6998d4ee1bd0dcd0beac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/b49a1cd58dcf0fd318c7a61951d572fcbd323504",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/062b000f1665683a2840c40a51d27cace7f57a33",
+                    "width": 64
+                }
+                ],
+                "name": "TRILOGY",
+                "release_date": "2017-06-28",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                },
+                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                "id": "1l2oLiukA9i5jEtIyNWIEP",
+                "name": "Carpenter Brut",
+                "type": "artist",
+                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 214351,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "FR9W11319889"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7oxnK2wg8qFv8EXyyxKDJ4",
+            "id": "7oxnK2wg8qFv8EXyyxKDJ4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Roller Mobster",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/299524a15dc5e84a89a82963e3ec528d4c919a3d?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:7oxnK2wg8qFv8EXyyxKDJ4"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                    "id": "1l2oLiukA9i5jEtIyNWIEP",
+                    "name": "Carpenter Brut",
+                    "type": "artist",
+                    "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+                },
+                "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
+                "id": "0io5pe55YRCTVqEjwlOBdN",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/64d65d32c03c8d17920c6998d4ee1bd0dcd0beac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/b49a1cd58dcf0fd318c7a61951d572fcbd323504",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/062b000f1665683a2840c40a51d27cace7f57a33",
+                    "width": 64
+                }
+                ],
+                "name": "TRILOGY",
+                "release_date": "2017-06-28",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                },
+                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                "id": "1l2oLiukA9i5jEtIyNWIEP",
+                "name": "Carpenter Brut",
+                "type": "artist",
+                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 208972,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "FR9W11418529"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/10qbHF920zH5K8C8IcE5AL"
+            },
+            "href": "https://api.spotify.com/v1/tracks/10qbHF920zH5K8C8IcE5AL",
+            "id": "10qbHF920zH5K8C8IcE5AL",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Turbo Killer",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b8639bf91007d5603bae1d58ec824f897b20f44?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 16,
+            "type": "track",
+            "uri": "spotify:track:10qbHF920zH5K8C8IcE5AL"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                    "id": "1l2oLiukA9i5jEtIyNWIEP",
+                    "name": "Carpenter Brut",
+                    "type": "artist",
+                    "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+                },
+                "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
+                "id": "0io5pe55YRCTVqEjwlOBdN",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/64d65d32c03c8d17920c6998d4ee1bd0dcd0beac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/b49a1cd58dcf0fd318c7a61951d572fcbd323504",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/062b000f1665683a2840c40a51d27cace7f57a33",
+                    "width": 64
+                }
+                ],
+                "name": "TRILOGY",
+                "release_date": "2017-06-28",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                },
+                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                "id": "1l2oLiukA9i5jEtIyNWIEP",
+                "name": "Carpenter Brut",
+                "type": "artist",
+                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 256000,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "FR9W11217626"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1coJ1H1FiEZG93naXkOsNF",
+            "id": "1coJ1H1FiEZG93naXkOsNF",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Le perv",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/12a33ac74d1f73be819e590b5dcaf1b7cb718dd6?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:1coJ1H1FiEZG93naXkOsNF"
+            }
+        },
+        {
+            "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                {
+                    "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                    "id": "1l2oLiukA9i5jEtIyNWIEP",
+                    "name": "Carpenter Brut",
+                    "type": "artist",
+                    "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+                ],
+                "external_urls": {
+                "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+                },
+                "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
+                "id": "0io5pe55YRCTVqEjwlOBdN",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/64d65d32c03c8d17920c6998d4ee1bd0dcd0beac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/b49a1cd58dcf0fd318c7a61951d572fcbd323504",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/062b000f1665683a2840c40a51d27cace7f57a33",
+                    "width": 64
+                }
+                ],
+                "name": "TRILOGY",
+                "release_date": "2017-06-28",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
+            },
+            "artists": [
+                {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                },
+                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                "id": "1l2oLiukA9i5jEtIyNWIEP",
+                "name": "Carpenter Brut",
+                "type": "artist",
+                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 337435,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "FR9W11319894"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5PlZbtB1Ok46sKyjKEfppR"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5PlZbtB1Ok46sKyjKEfppR",
+            "id": "5PlZbtB1Ok46sKyjKEfppR",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Hang'em All",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/d20397f3c414175dce9d1b4f4ac5c6f78d6e8b76?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:5PlZbtB1Ok46sKyjKEfppR"
+            }
+        }
+    ]
+}

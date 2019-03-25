@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+  - "10.15.1"
+services:
+  - mysql
+before_install:
+  - mysql -e 'CREATE DATABASE music;'
+  - mysql -u root -e "CREATE USER 'music'@'localhost'; GRANT ALL ON *.* TO 'music'@'localhost' IDENTIFIED BY 'music'; FLUSH PRIVILEGES;"
+cache:
+  directories:
+    - node_modules
+script:
+- cd backend
+- npm install
+- npm test
+- npm run start-test &
+- cd ../frontend
+- npm install
+- npm run test-nowatch

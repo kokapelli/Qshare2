@@ -1,0 +1,79 @@
+{
+    "status": "success",
+    "tracks": [
+        {
+            "trackQueueID": "ced2fa5d-f0ee-435a-bff4-7488cb4e6d58",
+            "position": "0",
+            "data": {
+                "name": "Ryu - Original Mix",
+                "artists": [
+                    {
+                        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
+                        "name": "Avicii"
+                    }
+                ],
+                "images": [
+                    {
+                        "height": 640,
+                        "width": 640,
+                        "url": "https://i.scdn.co/image/c481b608bca41df6dedf7a644619d326b3df2626"
+                    },
+                    {
+                        "height": 300,
+                        "width": 300,
+                        "url": "https://i.scdn.co/image/9314bd270447405df21b54a605e8c3fcf8feca02"
+                    },
+                    {
+                        "height": 64,
+                        "width": 64,
+                        "url": "https://i.scdn.co/image/1f7b9d41a985983501bcdef3fd1505268210f3d9"
+                    }
+                ],
+                "uri": "spotify:track:6Ol2HirpV5wdzCggAUNM9q"
+            }
+        },
+        {
+            "trackQueueID": "5e81c079-1472-4f5c-8a2a-a1073c89a9f2",
+            "position": "1",
+            "data": {
+                "name": "SKIN TO BONE - Nick Catchdubs Remix feat. Cody B. Ware and Ryu",
+                "artists": [
+                    {
+                        "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+                        "name": "Linkin Park"
+                    },
+                    {
+                        "uri": "spotify:artist:6aY7r6cZsCWifRsX6Fm9kq",
+                        "name": "Cody B. Ware"
+                    },
+                    {
+                        "uri": "spotify:artist:2RvGel2PhO9vh74Z7I7ou2",
+                        "name": "Ryu"
+                    },
+                    {
+                        "uri": "spotify:artist:6IcRi6fsL0MNwNp4fUZchD",
+                        "name": "Nick Catchdubs"
+                    }
+                ],
+                "images": [
+                    {
+                        "height": 640,
+                        "width": 640,
+                        "url": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05"
+                    },
+                    {
+                        "height": 300,
+                        "width": 300,
+                        "url": "https://i.scdn.co/image/f9195b09b639bfa62948bf7920894e9bc351a416"
+                    },
+                    {
+                        "height": 64,
+                        "width": 64,
+                        "url": "https://i.scdn.co/image/9ab2c1c83562200295bb87182bce55abfba93ae7"
+                    }
+                ],
+                "uri": "spotify:track:6jY7IkH2uf1vZPGyqb8wO7"
+            }
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.sonarlint
+frontend/yarn\.lock
+*.sqlite
+.idea
+
+frontend/constants/IP.js
